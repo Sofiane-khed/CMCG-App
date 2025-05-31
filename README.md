@@ -1,4 +1,4 @@
-# CMCG: A Co-attention Mechanism into a Combined GNN-based Model (CMCG) for Detecting Fake News
+# CMCG: A Co-attention Mechanism into a Combined GNN-based Model for Detecting Fake News
 This repository contains official implementation code of paper **A Co-attention Mechanism into a Combined GNN-Based Model for Fake News Detection** [(link)](...).
 
 ## Overview
